@@ -2,4 +2,5 @@
 [CIERA HOMEPAGE](https://ciera.northwestern.edu/)
 Having fun during my second day of the REU
 
-NEBRASKA IS THE BEST STATE EVERRRRR
+
+NEBRASKA IS THE BEST STATE EVERRRR
